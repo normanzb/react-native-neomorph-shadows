@@ -3,7 +3,9 @@
 ![github](https://img.shields.io/github/stars/tokkozhin/react-native-neomorph-shadows?style=flat-square)
 ![Supports Android and iOS](https://img.shields.io/badge/platforms-android%20|%20ios-lightgrey.svg?style=flat-square)
 
-# react-native-neomorph-shadows
+# react-native-neomorph-shadows-fixes
+
+Original project is dead, so we have this.
 
 Shadows and neumorphism/neomorphism for iOS & Android (like iOS).
 
