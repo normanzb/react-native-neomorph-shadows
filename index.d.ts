@@ -1,4 +1,4 @@
-declare module 'react-native-neomorph-shadows' {
+declare module 'react-native-neomorph-shadows-fixes' {
   import * as React from 'react';
   import type { ViewProps, ViewStyle } from 'react-native';
 
